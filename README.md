@@ -124,11 +124,3 @@ The visualizations include:
 - 🌍 Location Analysis Charts
 - 🏢 Company Analysis Charts
 
----
-
-## 📂 Project Structure
-
-```text
-Job-Market-Skills-and-Salary-Analysis/
-│
-├── 📓 Job_Market_Skills_and
